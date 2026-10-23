@@ -1,6 +1,6 @@
 /* Guarda o app no aparelho para funcionar sem internet.
    Ao publicar uma atualização, aumente o número da VERSAO. */
-const VERSAO = "caderno-v2";
+const VERSAO = "caderno-v3";
 const ARQUIVOS = [
   "./",
   "index.html",
